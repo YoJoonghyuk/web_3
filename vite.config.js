@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base: '/web_2/', 
+  base: '/web_3/', 
 })
